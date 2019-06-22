@@ -12,4 +12,4 @@ Demo on [Youtube](https://youtu.be/x3vW4LiNaRM?t=1054)
 
 * One of Sipeed Maix development board. I use Maix Go. May work for other boards.
 * MaixPy. Please refer to MaixPy [docs](https://maixpy.sipeed.com/en/) for setting up development environment.
-
+* Copy `trash.kmodel` model file to Maix board, either via microSD card or burn it to board's memory using [k-flash GUI tool](https://github.com/sipeed/kflash_gui). Make sure to adjust the code for loading the model.
